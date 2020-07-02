@@ -1,0 +1,10 @@
+M1 and W3
+M2 and W1
+M3 and W2
+M4 and W9
+M5 and W4
+M6 and W8
+M7 and W10
+M8 and W7
+M9 and W6
+M10 and W5
